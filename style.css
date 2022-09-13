@@ -77,6 +77,7 @@ button{
     background-color: rgba(218, 204, 204, 0.384) ;
     padding: 1rem;
     text-align: center;
+    border-radius: .5rem;
 
 }
 .total_balance {
@@ -84,6 +85,6 @@ button{
     margin: 0 auto;
 }
 
-/* .main_page {
+.main_page {
     display: none;
-} */
+}
